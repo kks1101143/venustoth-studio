@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kks1101143.github.io/venustoth-studio/sitemap.xml
